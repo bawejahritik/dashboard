@@ -1,7 +1,6 @@
 {
   "name": "internship",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +12,15 @@
     "mssql": "^9.1.1",
     "sequelize": "^6.32.0",
     "tedious": "^16.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bawejahritik/dashboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bawejahritik/dashboard/issues"
+  },
+  "homepage": "https://github.com/bawejahritik/dashboard#readme",
+  "description": ""
 }

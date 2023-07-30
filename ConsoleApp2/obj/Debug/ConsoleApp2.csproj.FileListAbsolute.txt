@@ -1,0 +1,14 @@
+C:\Users\hritik\OneDrive\Desktop\internship\dashboard\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\hritik\OneDrive\Desktop\internship\dashboard\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\hritik\OneDrive\Desktop\internship\dashboard\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\hritik\OneDrive\Desktop\internship\dashboard\ConsoleApp2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hritik\OneDrive\Desktop\internship\dashboard\ConsoleApp2\bin\Debug\itextsharp.dll
+C:\Users\hritik\OneDrive\Desktop\internship\dashboard\ConsoleApp2\bin\Debug\itextsharp.xml
+C:\Users\hritik\OneDrive\Desktop\internship\dashboard\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\hritik\OneDrive\Desktop\internship\dashboard\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hritik\OneDrive\Desktop\internship\dashboard\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\hritik\OneDrive\Desktop\internship\dashboard\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\hritik\OneDrive\Desktop\internship\dashboard\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\hritik\OneDrive\Desktop\internship\dashboard\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\hritik\OneDrive\Desktop\internship\dashboard\ConsoleApp2\bin\Debug\OpenNLP.dll
+C:\Users\hritik\OneDrive\Desktop\internship\dashboard\ConsoleApp2\bin\Debug\SharpEntropy.dll
